@@ -53,5 +53,15 @@ body {
     .ul li a:hover {
         color: #e0d2c5;
         }
-
+     .last{
+            background-color: #16447B;
+            width: 1320px;
+            height: 200px;
+            margin-top: 100px;
+            text-align: center;
+            font-size: 30px;
+            font-family:cursive;
+            color: #CDDEEB;
+            float:left;
+        }
    
